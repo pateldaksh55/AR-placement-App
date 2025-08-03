@@ -22,3 +22,10 @@ An Android Augmented Reality application built using **Sceneform** and **ARCore*
 3. **Sync Gradle to download all dependencies, including Sceneform and ARCore.**
 4. **Connect a physical device that supports ARCore (emulators will not work).**
 5. **Run the app and test 3D model placement by tapping on detected flat surfaces.**
+
+## 📦 Download APK
+
+You can download the latest APK from the [Releases page](https://github.com/pateldaksh55/AR-placement-App/releases/latest).
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge&logo=android)](https://github.com/pateldaksh55/AR-placement-App/releases/latest/download/ARPlacementApp-v1.0.apk)
+
