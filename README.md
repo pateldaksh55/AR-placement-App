@@ -27,5 +27,5 @@ An Android Augmented Reality application built using **Sceneform** and **ARCore*
 
 You can download the latest APK from the [Releases page](https://github.com/pateldaksh55/AR-placement-App/releases/latest).
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge&logo=android)](https://github.com/pateldaksh55/AR-placement-App/releases/latest/download/ARPlacementApp-v1.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge&logo=android)](https://github.com/pateldaksh55/AR-placement-App/releases/tag/v01)
 
